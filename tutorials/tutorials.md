@@ -5,7 +5,7 @@ Short tutorials and demos.
 ### Compute Resources 
 
 * [TACC Tutorials](tacc/tacc_tutorials.md)
-* NAIRR JupyterHub
+* [NRP JupyterHub](nrp/nrp_account.md)
 
 ### Performance Measurement and Analysis
 
