@@ -6,7 +6,7 @@ Complete the tutorials **in order** if this is your first time using TACC.
 
 ## Tutorials
 
-### 1. [Setting Up Your TACC Account and MFA](tacc_account.md)
+### 1. [Setting Up Your TACC Account and MFA](tacc_access_accounts.md)
 
 Create your TACC account, configure multi-factor authentication (MFA), and make sure your account is ready to be added to the class allocation.
 
