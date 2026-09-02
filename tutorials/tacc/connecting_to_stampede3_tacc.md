@@ -88,7 +88,6 @@ Paste the following into the file:
 #SBATCH -N 1                      # Number of compute nodes
 #SBATCH -n 4                      # Total number of tasks
 #SBATCH -t 00:05:00               # Maximum run time (hh:mm:ss)
-#SBATCH -A YOUR_CLASS_ACCOUNT_ID  # Course allocation ID
 
 echo "Hello from Stampede3!"
 echo "This job is running on node: $(hostname)"
